@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Murilo Bruschi 💻🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilobruschi)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](MuriloBruschiSena@proton.me)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto: MuriloBruschiSena@proton.me)
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloBruschi&show_icons=true&theme=dark)
